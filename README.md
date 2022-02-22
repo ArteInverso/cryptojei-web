@@ -1,4 +1,4 @@
-# SN-Landing-Page    
+# Cryptojei-Landing-Page    
 
 ### DEMO is [here](https://nordicgiant2.github.io/snlp-page/)
 
